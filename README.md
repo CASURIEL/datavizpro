@@ -1,4 +1,4 @@
-#### IN INGLISH
+#### IN ENGLISH
 # 📊 Interactive Data Visualization App with Streamlit
 
 ## 📝 Description
