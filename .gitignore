@@ -1,0 +1,43 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Configuración del proyecto de PyCharm
+.idea/
+
+# Archivos de configuración de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de sistema (Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Streamlit
+.streamlit/
+
+# Archivos de salida o caché
+*.sqlite3
+*.db
+*.bak
+.cache/
+*.csv
+*.xlsx
+
+# Otros
+*.env
