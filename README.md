@@ -34,14 +34,16 @@ Está construida con **Streamlit**, una herramienta poderosa para crear interfac
 ## 🚀 Instalación y ejecución
 - **Paso 1:** Clona este repositorio o descarga el código fuente:
 
-git clone https://github.com/zucasu/datavizpro.git
-cd tu-repositorio
+    ```text
+        git clone https://github.com/casuriels/datavizpro.git
+        cd tu-repositorio
 
 - **Paso 2:** Crea y activa un entorno virtual:
+
+    ```text
       1. En Windows:
           python -m venv .venv
           .\venv\Scripts\activate
-
       2. En mac/OS/Linux:
           python3 -m venv venv
           source venv/bin/activate
